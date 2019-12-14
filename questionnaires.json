@@ -150,7 +150,6 @@
             {
                 "header": "Book / Magazine Wishlist",
                 "items": [
-                    "The Jungle by Upton Sinclair",
                     "How Not to Die by Michael Greger",
                     "How Not to Diet by Michael Greger",
                     "The Starch Solution by John and Mary McDougall",
@@ -673,7 +672,7 @@
             {
                 "header": "Favorite Candy",
                 "items": [
-                    "Hershey's Chocolate",
+                    "Hershey's Chocolate with Almonds",
                     "Snickers"
                 ]
             },
@@ -853,12 +852,16 @@
             {
                 "header": "Clothing Sizes",
                 "items": [
-                    "Shirt - Petite XL"
+                    "Shirt - Petite XL",
+                    "Shoe - 7 1/2"
                 ]
             },
             {
                 "header": "Other Wishes",
-                "items": []
+                "items": [
+                  "Incense",
+                  "Incense Burner"
+                ]
             }
         ]
     },
