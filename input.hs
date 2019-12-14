@@ -1,6 +1,3 @@
-{-# LANGUAGE DeriveGeneric #-}
-{-# LANGUAGE DeriveAnyClass #-}
-
 import qualified Data.ByteString.Lazy as B
 import Questionnaire
 import GHC.Generics
